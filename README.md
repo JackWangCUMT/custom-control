@@ -1,5 +1,5 @@
 # custom control
-ebook of How to Develop Windows Forms Custom Controls
+free ebook of How to Develop Windows Forms Custom Controls
 
 一本关于如何用C#编写窗体控件的书（200页左右）（限于精力和财力，未出版，后续如有机会再完善后出版）
 
