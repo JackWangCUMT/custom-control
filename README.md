@@ -8,4 +8,4 @@ free ebook of How to Develop Windows Forms Custom Controls
 
 ###注意：可以免费阅读，但不能从事任何以营利为目的的传播和售卖。
 
-[Book](https://github.com/JackWangCUMT/customcontrol/blob/master/mybook.bmp)
+![Book](https://github.com/JackWangCUMT/customcontrol/blob/master/mybook.bmp)
