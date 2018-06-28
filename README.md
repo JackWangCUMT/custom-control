@@ -11,5 +11,4 @@ ebook of How to Develop Windows Forms Custom Controls
 
 ###注意：需要的朋友，可以发邮件到wangmingemail@163.com进行咨询
 或通过支付宝(账号wangmingemail@163.com)进行捐赠获取PDF电子版(>=29.9元)
-![ZFB](https://files.cnblogs.com/files/isaboy/zfb.bmp)
 ![Book](https://github.com/JackWangCUMT/customcontrol/blob/master/mybook.bmp)
